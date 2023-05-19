@@ -1,0 +1,13 @@
+/* H1 is a selector */
+h1.page-header {
+    /* CSS Rules go here */
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+/* Don't add semi colons at the end of CSS blocks */
+
+div.image-container {
+    margin: 0 auto;
+    width: 100%;
+}
